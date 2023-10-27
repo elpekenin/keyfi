@@ -1,0 +1,28 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7fac5ed9-9e1a-4d2b-8b53-5d1999f31334)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 15.24 15.24) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a6aef1eb-6e91-4b54-95eb-de0394032f36)
+    (property "Sheetname" "Caps" (at 15.24 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "caps.kicad_sch" (at 15.24 19.6346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pcb"
+        (path "/3c00b562-f31c-4144-9978-9a1bbba7ab3a" (page "4"))
+        (path "/3c00b562-f31c-4144-9978-9a1bbba7ab3a/d7815d04-5b95-4039-a36d-66bc8d4bc2bd" (page "6"))
+      )
+    )
+  )
+)

@@ -487,32 +487,28 @@
       ""
     ],
     [
-      "ebcc8786-4c54-4cb2-bb26-37f9da278427",
-      "Keys"
-    ],
-    [
-      "04d8f986-016f-4bc4-87f8-bfdd843318db",
-      "RGB"
-    ],
-    [
       "1558fcb5-5d44-47a0-9b27-bdee9b2378a8",
       "USB"
     ],
     [
-      "d7815d04-5b95-4039-a36d-66bc8d4bc2bd",
-      "Power"
+      "ffe748f2-470e-4727-9872-956bf7fa702b",
+      "Keys"
     ],
     [
-      "a6aef1eb-6e91-4b54-95eb-de0394032f36",
+      "d4fcb1c7-4dd9-4f5c-8879-2d7bd17a787a",
+      "RGB"
+    ],
+    [
+      "bed0f8ba-e9ff-4503-8c2f-e965063ba293",
       "Caps"
-    ],
-    [
-      "0692a0a8-8e1d-4cc2-ba10-8dd4a1e1097a",
-      "ESP32S3"
     ],
     [
       "018b59c3-c07a-440e-8b30-4a7a4f631734",
       "STM32H750"
+    ],
+    [
+      "0692a0a8-8e1d-4cc2-ba10-8dd4a1e1097a",
+      "ESP32S3"
     ]
   ],
   "text_variables": {}

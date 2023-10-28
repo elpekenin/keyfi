@@ -1374,4 +1374,22 @@
       )
     )
   )
+
+  (sheet (at 251.46 22.86) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ffe748f2-470e-4727-9872-956bf7fa702b)
+    (property "Sheetname" "Keys" (at 251.46 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "keys.kicad_sch" (at 251.46 27.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pcb"
+        (path "/3c00b562-f31c-4144-9978-9a1bbba7ab3a" (page "2"))
+        (path "/3c00b562-f31c-4144-9978-9a1bbba7ab3a/018b59c3-c07a-440e-8b30-4a7a4f631734" (page "1"))
+      )
+    )
+  )
 )

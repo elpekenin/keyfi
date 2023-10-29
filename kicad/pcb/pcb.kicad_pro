@@ -507,6 +507,10 @@
       "STM32H750"
     ],
     [
+      "9b3c1732-16f0-4cd3-9e54-be3fba35a245",
+      "Peripherals"
+    ],
+    [
       "0692a0a8-8e1d-4cc2-ba10-8dd4a1e1097a",
       "ESP32S3"
     ]

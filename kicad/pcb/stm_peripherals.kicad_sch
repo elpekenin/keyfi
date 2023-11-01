@@ -1272,7 +1272,7 @@
     (property "Value" "Conn_01x40" (at 260.35 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 257.81 92.71 0)
+    (property "Footprint" "Connector_FFC-FPC:TE_4-1734839-0_1x40-1MP_P0.5mm_Horizontal" (at 257.81 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 257.81 92.71 0)

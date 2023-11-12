@@ -1,0 +1,7 @@
+{
+    "repo": "https://github.com/qmk/qmk_firmware",
+    "branch": "develop",
+    "keyboard": "elpekenin/keyfi",
+    "keymap": "elpekenin",
+    "path": "$QMK_BUILD"
+}
